@@ -1,0 +1,17 @@
+..\output_recev\slaverapis2.o: ..\API\SLAVERAPIS2.c
+..\output_recev\slaverapis2.o: ..\API\GEngineCfg.h
+..\output_recev\slaverapis2.o: ..\API\GDefine.h
+..\output_recev\slaverapis2.o: ..\CMSIS\stm32f10x.h
+..\output_recev\slaverapis2.o: ..\CMSIS\core_cm3.h
+..\output_recev\slaverapis2.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+..\output_recev\slaverapis2.o: ..\CMSIS\system_stm32f10x.h
+..\output_recev\slaverapis2.o: ..\Project\stm32f10x_conf.h
+..\output_recev\slaverapis2.o: ..\API\Display.h
+..\output_recev\slaverapis2.o: ..\API\g-sensor.h
+..\output_recev\slaverapis2.o: ..\Driver\Detector.h
+..\output_recev\slaverapis2.o: ..\Driver\Motor.h
+..\output_recev\slaverapis2.o: ..\Driver\audio\pcm.h
+..\output_recev\slaverapis2.o: ..\CMOS\CMOS.h
+..\output_recev\slaverapis2.o: ..\API\Config.h
+..\output_recev\slaverapis2.o: ..\Driver\SingleWireSlave.h
+..\output_recev\slaverapis2.o: ..\Driver\lcd.h

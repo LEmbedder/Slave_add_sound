@@ -1,0 +1,11 @@
+..\output_recev\iap.o: ..\API\IAP.c
+..\output_recev\iap.o: ..\FWLib\inc\stm32f10x_crc.h
+..\output_recev\iap.o: ..\CMSIS\stm32f10x.h
+..\output_recev\iap.o: ..\CMSIS\core_cm3.h
+..\output_recev\iap.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+..\output_recev\iap.o: ..\CMSIS\system_stm32f10x.h
+..\output_recev\iap.o: ..\Project\stm32f10x_conf.h
+..\output_recev\iap.o: ..\CMOS\CMOS.h
+..\output_recev\iap.o: ..\API\IAP.h
+..\output_recev\iap.o: ..\CMOS\CMLib.h
+..\output_recev\iap.o: ..\Driver\Flash.h

@@ -1,0 +1,14 @@
+..\output_recev\nrf24l01.o: ..\Driver\NRF24L01.c
+..\output_recev\nrf24l01.o: ..\CMOS\CMOS.h
+..\output_recev\nrf24l01.o: ..\CMSIS\stm32f10x.h
+..\output_recev\nrf24l01.o: ..\CMSIS\core_cm3.h
+..\output_recev\nrf24l01.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+..\output_recev\nrf24l01.o: ..\CMSIS\system_stm32f10x.h
+..\output_recev\nrf24l01.o: ..\Project\stm32f10x_conf.h
+..\output_recev\nrf24l01.o: ..\Driver\NRF24L01.h
+..\output_recev\nrf24l01.o: ..\FWLib\inc\stm32f10x_exti.h
+..\output_recev\nrf24l01.o: ..\FWLib\inc\stm32f10x_rcc.h
+..\output_recev\nrf24l01.o: ..\FWLib\inc\stm32f10x_gpio.h
+..\output_recev\nrf24l01.o: ..\FWLib\inc\stm32f10x_spi.h
+..\output_recev\nrf24l01.o: ..\FWLib\inc\misc.h
+..\output_recev\nrf24l01.o: ..\CMOS\CMLIB.h

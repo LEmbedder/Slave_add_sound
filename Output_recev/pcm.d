@@ -1,0 +1,13 @@
+..\output_recev\pcm.o: ..\Driver\audio\pcm.c
+..\output_recev\pcm.o: ..\Driver\audio\pcm.h
+..\output_recev\pcm.o: ..\CMSIS\stm32f10x.h
+..\output_recev\pcm.o: ..\CMSIS\core_cm3.h
+..\output_recev\pcm.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+..\output_recev\pcm.o: ..\CMSIS\system_stm32f10x.h
+..\output_recev\pcm.o: ..\Project\stm32f10x_conf.h
+..\output_recev\pcm.o: ..\FWLib\inc\stm32f10x_gpio.h
+..\output_recev\pcm.o: ..\FWLib\inc\stm32f10x_rcc.h
+..\output_recev\pcm.o: ..\FWLib\inc\stm32f10x_tim.h
+..\output_recev\pcm.o: ..\FWLib\inc\stm32f10x_dac.h
+..\output_recev\pcm.o: ..\FWLib\inc\misc.h
+..\output_recev\pcm.o: ..\CMOS\CMOS.h

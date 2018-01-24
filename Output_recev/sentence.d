@@ -1,0 +1,12 @@
+..\output_recev\sentence.o: ..\Driver\sentence.c
+..\output_recev\sentence.o: ..\Driver\sentence.h
+..\output_recev\sentence.o: ..\CMSIS\stm32f10x.h
+..\output_recev\sentence.o: ..\CMSIS\core_cm3.h
+..\output_recev\sentence.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+..\output_recev\sentence.o: ..\CMSIS\system_stm32f10x.h
+..\output_recev\sentence.o: ..\Project\stm32f10x_conf.h
+..\output_recev\sentence.o: ..\API\GEngineCfg.h
+..\output_recev\sentence.o: ..\API\GDefine.h
+..\output_recev\sentence.o: ..\API\File.h
+..\output_recev\sentence.o: ..\Driver\Resource.h
+..\output_recev\sentence.o: ..\Driver\audio\audio.h

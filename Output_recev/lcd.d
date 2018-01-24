@@ -1,0 +1,12 @@
+..\output_recev\lcd.o: ..\Driver\lcd.c
+..\output_recev\lcd.o: ..\Driver\lcd.h
+..\output_recev\lcd.o: ..\CMSIS\stm32f10x.h
+..\output_recev\lcd.o: ..\CMSIS\core_cm3.h
+..\output_recev\lcd.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+..\output_recev\lcd.o: ..\CMSIS\system_stm32f10x.h
+..\output_recev\lcd.o: ..\Project\stm32f10x_conf.h
+..\output_recev\lcd.o: ..\FWLib\inc\stm32f10x_rcc.h
+..\output_recev\lcd.o: ..\FWLib\inc\stm32f10x_gpio.h
+..\output_recev\lcd.o: ..\FWLib\inc\stm32f10x_spi.h
+..\output_recev\lcd.o: ..\FWLib\inc\misc.h
+..\output_recev\lcd.o: ..\CMOS\CMOS.h

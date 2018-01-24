@@ -1,0 +1,17 @@
+..\output_recev\recev.o: ..\Driver\recev.c
+..\output_recev\recev.o: ..\FWLib\inc\stm32f10x_rcc.h
+..\output_recev\recev.o: ..\CMSIS\stm32f10x.h
+..\output_recev\recev.o: ..\CMSIS\core_cm3.h
+..\output_recev\recev.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+..\output_recev\recev.o: ..\CMSIS\system_stm32f10x.h
+..\output_recev\recev.o: ..\Project\stm32f10x_conf.h
+..\output_recev\recev.o: ..\FWLib\inc\stm32f10x_gpio.h
+..\output_recev\recev.o: ..\FWLib\inc\stm32f10x_adc.h
+..\output_recev\recev.o: ..\FWLib\inc\stm32f10x_dma.h
+..\output_recev\recev.o: ..\FWLib\inc\misc.h
+..\output_recev\recev.o: ..\CMOS\CMLIB.h
+..\output_recev\recev.o: ..\Driver\recev.h
+..\output_recev\recev.o: ..\CMOS\CMOS.h
+..\output_recev\recev.o: ..\API\GEngineCfg.h
+..\output_recev\recev.o: ..\API\GDefine.h
+..\output_recev\recev.o: ..\API\Config.h

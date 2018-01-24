@@ -1,0 +1,14 @@
+..\output_recev\motor.o: ..\Driver\Motor.c
+..\output_recev\motor.o: ..\Driver\Motor.h
+..\output_recev\motor.o: ..\CMSIS\stm32f10x.h
+..\output_recev\motor.o: ..\CMSIS\core_cm3.h
+..\output_recev\motor.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+..\output_recev\motor.o: ..\CMSIS\system_stm32f10x.h
+..\output_recev\motor.o: ..\Project\stm32f10x_conf.h
+..\output_recev\motor.o: ..\FWLib\inc\stm32f10x_rcc.h
+..\output_recev\motor.o: ..\FWLib\inc\stm32f10x_gpio.h
+..\output_recev\motor.o: ..\FWLib\inc\stm32f10x_spi.h
+..\output_recev\motor.o: ..\FWLib\inc\misc.h
+..\output_recev\motor.o: ..\CMOS\CMOS.h
+..\output_recev\motor.o: ..\API\GEngineCfg.h
+..\output_recev\motor.o: ..\API\GDefine.h

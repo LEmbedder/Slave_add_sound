@@ -1,0 +1,16 @@
+..\output_recev\stm32f10x_it.o: stm32f10x_it.c
+..\output_recev\stm32f10x_it.o: stm32f10x_it.h
+..\output_recev\stm32f10x_it.o: ..\CMSIS\stm32f10x.h
+..\output_recev\stm32f10x_it.o: ..\CMSIS\core_cm3.h
+..\output_recev\stm32f10x_it.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+..\output_recev\stm32f10x_it.o: ..\CMSIS\system_stm32f10x.h
+..\output_recev\stm32f10x_it.o: ..\Project\stm32f10x_conf.h
+..\output_recev\stm32f10x_it.o: ..\FWLib\inc\stm32f10x_tim.h
+..\output_recev\stm32f10x_it.o: ..\CMOS\CMOS.h
+..\output_recev\stm32f10x_it.o: ..\Driver\IC_SPI.h
+..\output_recev\stm32f10x_it.o: ..\CMOS\CMLIB.h
+..\output_recev\stm32f10x_it.o: ..\API\nRF.h
+..\output_recev\stm32f10x_it.o: ..\Driver\NRF24L01.h
+..\output_recev\stm32f10x_it.o: ..\FWLib\inc\stm32f10x_exti.h
+..\output_recev\stm32f10x_it.o: ..\API\g-sensor.h
+..\output_recev\stm32f10x_it.o: ..\Driver\Motor.h

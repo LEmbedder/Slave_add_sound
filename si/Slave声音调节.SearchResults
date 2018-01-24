@@ -1,0 +1,3 @@
+---- PL_opening_xl Matches (2 in 2 files) ----
+Phrase.h (app):#define	PL_opening_xl		0x80da	//
+Xiaomu.c (app):	}PL_opening_xl

@@ -1,0 +1,46 @@
+
+
+
+ARM Macro Assembler    Page 1 
+
+
+    1 00000000         ;AREA    |.text|, CODE, READONLY
+    2 00000000         
+    3 00000000         ;SPIREAD PROC
+    4 00000000         ;EXPORT  SPIREAD  
+    5 00000000         
+    6 00000000         ;push {r2-r7}
+    7 00000000         ;_spistart
+    8 00000000         
+    9 00000000         ;ldr r2,#(0x40011000+0x14) ;clr
+   10 00000000         
+   11 00000000         ;ldr r3,#(0x40011000+0x10) ;set
+   12 00000000         
+   13 00000000         ;ldr r4,#(0x40010C08) ;data
+   14 00000000         
+   15 00000000         ;ldr r5,#0x4000 ;0x4000
+   16 00000000         
+   17 00000000         
+   18 00000000         
+   19 00000000         ;_spisloop
+   20 00000000         ;add r1,r1,r0
+   21 00000000         ;cmp r0,r1
+   22 00000000         ;bge _spiend
+   23 00000000         
+   24 00000000         
+   25 00000000         ;_spiend
+   26 00000000         ;pop {r2-r7}
+   27 00000000         
+   28 00000000         ;mov pc,lr
+   29 00000000         
+   30 00000000         ;ENDP
+   31 00000000         ;ALIGN
+   32 00000000         
+   33 00000000         ;END
+   34 00000000         
+                       
+Command Line: --debug --xref --cpu=Cortex-M3 --apcs=interwork --depend=..\outpu
+t_recev\asm.d -o..\output_recev\asm.o -IC:\Keil_v5\ARM\RV31\INC -IC:\Keil_v5\AR
+M\PACK\ARM\CMSIS\4.1.1\CMSIS\Include -IC:\Keil_v5\ARM\Inc\ST\STM32F10x --predef
+ine="__MICROLIB SETA 1" --list=..\listing\asm.lst ..\CMOS\asm.s
+331 symbols in table

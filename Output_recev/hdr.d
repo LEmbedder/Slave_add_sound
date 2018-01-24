@@ -1,0 +1,15 @@
+..\output_recev\hdr.o: ..\API\hdr.c
+..\output_recev\hdr.o: ..\API\hdr.h
+..\output_recev\hdr.o: ..\CMSIS\stm32f10x.h
+..\output_recev\hdr.o: ..\CMSIS\core_cm3.h
+..\output_recev\hdr.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+..\output_recev\hdr.o: ..\CMSIS\system_stm32f10x.h
+..\output_recev\hdr.o: ..\Project\stm32f10x_conf.h
+..\output_recev\hdr.o: ..\API\GEngineCfg.h
+..\output_recev\hdr.o: ..\API\GDefine.h
+..\output_recev\hdr.o: ..\APP\source.h
+..\output_recev\hdr.o: ..\API\File.h
+..\output_recev\hdr.o: ..\Driver\Resource.h
+..\output_recev\hdr.o: ..\CMOS\CMOS.h
+..\output_recev\hdr.o: ..\API\display.h
+..\output_recev\hdr.o: ..\CMOS\CMLIB.h

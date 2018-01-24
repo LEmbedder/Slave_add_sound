@@ -1,0 +1,13 @@
+..\output_recev\display.o: ..\API\Display.c
+..\output_recev\display.o: ..\API\Display.h
+..\output_recev\display.o: ..\CMSIS\stm32f10x.h
+..\output_recev\display.o: ..\CMSIS\core_cm3.h
+..\output_recev\display.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+..\output_recev\display.o: ..\CMSIS\system_stm32f10x.h
+..\output_recev\display.o: ..\Project\stm32f10x_conf.h
+..\output_recev\display.o: ..\Driver\Lcd.h
+..\output_recev\display.o: ..\API\ascii_8x16.h
+..\output_recev\display.o: ..\API\File.h
+..\output_recev\display.o: ..\Driver\Resource.h
+..\output_recev\display.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdlib.h
+..\output_recev\display.o: ..\APP\data_bmp00.h

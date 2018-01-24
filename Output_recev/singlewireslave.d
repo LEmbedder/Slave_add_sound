@@ -1,0 +1,12 @@
+..\output_recev\singlewireslave.o: ..\Driver\SingleWireSlave.c
+..\output_recev\singlewireslave.o: ..\Driver\SingleWireSlave.h
+..\output_recev\singlewireslave.o: ..\CMSIS\stm32f10x.h
+..\output_recev\singlewireslave.o: ..\CMSIS\core_cm3.h
+..\output_recev\singlewireslave.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+..\output_recev\singlewireslave.o: ..\CMSIS\system_stm32f10x.h
+..\output_recev\singlewireslave.o: ..\Project\stm32f10x_conf.h
+..\output_recev\singlewireslave.o: ..\FWLib\inc\stm32f10x_rcc.h
+..\output_recev\singlewireslave.o: ..\FWLib\inc\stm32f10x_gpio.h
+..\output_recev\singlewireslave.o: ..\FWLib\inc\stm32f10x_exti.h
+..\output_recev\singlewireslave.o: ..\FWLib\inc\misc.h
+..\output_recev\singlewireslave.o: ..\CMOS\CMOS.h

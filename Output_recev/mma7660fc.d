@@ -1,0 +1,13 @@
+..\output_recev\mma7660fc.o: ..\Driver\MMA7660FC.c
+..\output_recev\mma7660fc.o: ..\Driver\MMA7660FC.h
+..\output_recev\mma7660fc.o: ..\CMSIS\stm32f10x.h
+..\output_recev\mma7660fc.o: ..\CMSIS\core_cm3.h
+..\output_recev\mma7660fc.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+..\output_recev\mma7660fc.o: ..\CMSIS\system_stm32f10x.h
+..\output_recev\mma7660fc.o: ..\Project\stm32f10x_conf.h
+..\output_recev\mma7660fc.o: ..\FWLib\inc\misc.h
+..\output_recev\mma7660fc.o: ..\CMOS\CMOS.h
+..\output_recev\mma7660fc.o: ..\FWLib\inc\stm32f10x_rcc.h
+..\output_recev\mma7660fc.o: ..\FWLib\inc\stm32f10x_gpio.h
+..\output_recev\mma7660fc.o: ..\FWLib\inc\stm32f10x_exti.h
+..\output_recev\mma7660fc.o: ..\API\Display.h

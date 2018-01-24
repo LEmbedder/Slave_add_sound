@@ -1,0 +1,12 @@
+..\output_recev\battery.o: ..\Driver\Battery.c
+..\output_recev\battery.o: ..\Driver\Battery.h
+..\output_recev\battery.o: ..\CMSIS\stm32f10x.h
+..\output_recev\battery.o: ..\CMSIS\core_cm3.h
+..\output_recev\battery.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+..\output_recev\battery.o: ..\CMSIS\system_stm32f10x.h
+..\output_recev\battery.o: ..\Project\stm32f10x_conf.h
+..\output_recev\battery.o: ..\FWLib\inc\stm32f10x_rcc.h
+..\output_recev\battery.o: ..\FWLib\inc\stm32f10x_gpio.h
+..\output_recev\battery.o: ..\FWLib\inc\stm32f10x_adc.h
+..\output_recev\battery.o: ..\FWLib\inc\misc.h
+..\output_recev\battery.o: ..\CMOS\CMOS.h

@@ -1,0 +1,13 @@
+..\output_recev\file.o: ..\API\File.c
+..\output_recev\file.o: ..\API\File.h
+..\output_recev\file.o: ..\CMSIS\stm32f10x.h
+..\output_recev\file.o: ..\CMSIS\core_cm3.h
+..\output_recev\file.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+..\output_recev\file.o: ..\CMSIS\system_stm32f10x.h
+..\output_recev\file.o: ..\Project\stm32f10x_conf.h
+..\output_recev\file.o: ..\Driver\Resource.h
+..\output_recev\file.o: ..\Driver\Flash.h
+..\output_recev\file.o: ..\API\Commu.h
+..\output_recev\file.o: ..\CMOS\CMLIB.h
+..\output_recev\file.o: ..\Driver\IC_SPI.h
+..\output_recev\file.o: ..\API\FLASHROM.h
