@@ -680,7 +680,7 @@ void nRF_IRQHandler()
 	{
 		ClearGraphLayer(7);
 		AddGraph(RSSI_low, 0, 0,7);
-		//IWDG_ReloadCounter();
+		IWDG_ReloadCounter();
 	}
 	else
 	{
